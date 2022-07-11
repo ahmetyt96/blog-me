@@ -1,0 +1,17 @@
+body {
+    background-color: #f0eaea;
+    border-top: 3px solid #000;
+}
+header{
+    margin-top: 11px;
+}
+.logo, .menu, .link {
+    color: #000;
+}
+
+.logo:hover, .menu:hover, .link:hover {
+    color: brown;
+}
+.menu {
+    padding: 6px;
+}
